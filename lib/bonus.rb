@@ -26,6 +26,10 @@ epic_tragedy[:montague][:hero][:status] = "dead"
 
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 
+<<<<<<< HEAD
+=======
+puts epic_tragedy
+>>>>>>> f5f1197906fd33c70ab90eb2c5756cd931c1426b
   
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   
